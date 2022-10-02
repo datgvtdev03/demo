@@ -136,8 +136,6 @@ if resultChangePassword {
 } else {
    print("Thay đổi mật khẩu không thành công")
     print("Thay đổi mật khẩu không thành công")
-    print("Thay đổi mật khẩu không thành công")
-    print("Thay đổi mâsông")
 }
 
 
