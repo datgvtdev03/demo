@@ -135,6 +135,7 @@ if resultChangePassword {
    print("Mật khẩu mới là: \(myAccount.password)")
 } else {
    print("Thay đổi mật khẩu không thành công")
+    print("Thay đổi mật khẩu không thành công")
 }
 
 
